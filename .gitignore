@@ -1,0 +1,6 @@
+credentials.ini
+*.ini
+.env
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
