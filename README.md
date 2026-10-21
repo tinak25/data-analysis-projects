@@ -8,6 +8,7 @@ A collection of data analysis projects using Python, SQL and visualisation tools
 |---|---|---|
 | [YouTube COVID-19 News Engagement](youtube-news-analysis/) | How did audience engagement with COVID-19 news differ across BBC, CNN, Fox News and MSNBC on YouTube? | Python, pandas, seaborn, YouTube Data API |
 | [Diet, Income & BMI in US Adults](diet-income-health-analysis/) | How does diet differ by gender, income and education in US adults, and does calorie intake track with BMI? | Python, pandas, Bokeh, NHANES (CDC) |
+| [What Do Gardeners Ask?](gardening-qa-analysis/) | What does an online gardening community ask, when, and has it kept up with answering? | Python, pandas, regex, Bokeh |
 
 ## Highlights
 
@@ -19,9 +20,12 @@ A collection of data analysis projects using Python, SQL and visualisation tools
 
 ![Diet by income](diet-income-health-analysis/images/3_diet_by_income.png)
 
+**What Do Gardeners Ask?:** The share of questions answered fell from 99% (2011) to 63% (2023), and the top 1% of answerers wrote 61% of all answers, so the community depends on a few experts.
+
+![Answer rate by year](gardening-qa-analysis/images/1_answer_rate_by_year.png)
+
 ## Running a project
 
     cd <project-folder>
     pip install -r requirements.txt
     jupyter notebook
-
