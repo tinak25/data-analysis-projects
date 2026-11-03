@@ -1,6 +1,6 @@
 # Data Analysis Projects
 
-A collection of data analysis projects using Python, SQL and visualisation tools. Each folder is a self-contained project with its own README, notebook, data and charts.
+A collection of data analysis projects using Python, pandas and visualisation tools (Bokeh, seaborn). Each folder is a self-contained project with its own README, notebook, data and charts.
 
 ## Projects
 
@@ -8,7 +8,7 @@ A collection of data analysis projects using Python, SQL and visualisation tools
 |---|---|---|
 | [YouTube COVID-19 News Engagement](youtube-news-analysis/) | How did audience engagement with COVID-19 news differ across BBC, CNN, Fox News and MSNBC on YouTube? | Python, pandas, seaborn, YouTube Data API |
 | [Diet, Income & BMI in US Adults](diet-income-health-analysis/) | How does diet differ by gender, income and education in US adults, and does calorie intake track with BMI? | Python, pandas, Bokeh, NHANES (CDC) |
-| [What Do Gardeners Ask?](gardening-qa-analysis/) | What does an online gardening community ask, when, and has it kept up with answering? | Python, pandas, regex, Bokeh |
+| [What Do Gardeners Ask?](gardening-analysis/) | What does an online gardening community ask, when, and has it kept up with answering? | Python, pandas, regex, Bokeh |
 
 ## Highlights
 

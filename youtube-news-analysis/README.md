@@ -64,4 +64,4 @@ jupyter notebook youtube_news_analysis.ipynb
 ```
 
 ---
-Originally built for SIT112 Data Science Concepts at Deakin University, then extended and restructured.
+Originally built for a Deakin University data science unit, then extended and restructured.
