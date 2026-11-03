@@ -22,7 +22,7 @@ A collection of data analysis projects using Python, SQL and visualisation tools
 
 **What Do Gardeners Ask?:** The share of questions answered fell from 99% (2011) to 63% (2023), and the top 1% of answerers wrote 61% of all answers, so the community depends on a few experts.
 
-![Answer rate by year](gardening-qa-analysis/images/1_answer_rate_by_year.png)
+![Answer rate by year](gardening-analysis/images/1_answer_rate_by_year.png)
 
 ## Running a project
 
